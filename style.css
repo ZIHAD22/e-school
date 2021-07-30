@@ -7,8 +7,35 @@
 }
 .navbar-toggler {
   position: relative;
-  bottom: 37px;
+  bottom: 47px;
 }
 .text-aline {
   text-align: center;
+}
+.carosel-img {
+  width: 100%;
+}
+p {
+  color: gray;
+}
+.span-orange {
+  color: #fd511a;
+  padding-bottom: 20px;
+  position: relative;
+  bottom: 70px;
+}
+.span-green {
+  color: #21b573;
+}
+h1 {
+  color: #000000;
+  font-weight: 900;
+}
+.container {
+  padding-bottom: 50px;
+}
+.row .span-orange {
+  padding-bottom: 10px;
+  position: relative;
+  bottom: 70px;
 }
