@@ -39,3 +39,49 @@ h1 {
   position: relative;
   bottom: 70px;
 }
+.background-color {
+  background-color: #f0fff0;
+}
+.img-size {
+  width: 70px;
+  margin: auto;
+  padding-top: 35px;
+}
+.card {
+  border: none;
+}
+.card1 {
+  text-align: center;
+}
+.card h5 {
+  color: #413960;
+}
+.card1 p {
+  padding-bottom: 24px;
+}
+.cards {
+  margin-bottom: 50px;
+}
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+.cources {
+  width: 15px;
+}
+h2 {
+  text-align: center;
+  padding-bottom: 60px;
+  color: #413960;
+}
+.img-p {
+  padding: 10px;
+}
+.testmo {
+  width: 112px;
+  margin-left: 235px;
+}
+.testimonial p {
+  color: black;
+  font-weight: 700;
+}
